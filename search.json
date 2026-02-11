@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
+    "section": "",
+    "text": "This page is about me.\nI was born in …\nI like …\nYou can find my CV here [ADD LINK]"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "My First Website",
@@ -12,12 +19,5 @@
     "title": "My First Website",
     "section": "",
     "text": "My name is YOUR NAME.\nI study YOUR DEGREE.\n\n\nI am interested in …"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About me",
-    "section": "",
-    "text": "This page is about me.\nI was born in …\nI like …\nYou can find my CV here [ADD LINK]"
   }
 ]
