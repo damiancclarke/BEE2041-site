@@ -11,13 +11,13 @@
     "href": "index.html",
     "title": "My First Website",
     "section": "",
-    "text": "My name is YOUR NAME.\nI study YOUR DEGREE.\n\n\nI am interested in …\n\n\n\nit’s all just markdown!\nThis is a numbered list\n\nfirst\nsecond\nthird"
+    "text": "My name is YOUR NAME.\nI study YOUR DEGREE.\n\n\nI am interested in …\n\n\n\nit’s all just markdown!\nThis is a numbered list\n\nfirst\nsecond\nthird\n\n\nprint(\"hello world!\")\n\nhello world!"
   },
   {
     "objectID": "index.html#hello",
     "href": "index.html#hello",
     "title": "My First Website",
     "section": "",
-    "text": "My name is YOUR NAME.\nI study YOUR DEGREE.\n\n\nI am interested in …\n\n\n\nit’s all just markdown!\nThis is a numbered list\n\nfirst\nsecond\nthird"
+    "text": "My name is YOUR NAME.\nI study YOUR DEGREE.\n\n\nI am interested in …\n\n\n\nit’s all just markdown!\nThis is a numbered list\n\nfirst\nsecond\nthird\n\n\nprint(\"hello world!\")\n\nhello world!"
   }
 ]
